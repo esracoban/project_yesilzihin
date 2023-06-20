@@ -1,5 +1,5 @@
 # project_yesilzihin
 
-HTML-CSS kullanılarak, dinamik yapıya sahip tüm cihazlarla uyumlu, online alışveriş için kullanılabilecek bir web sayfası arayüzü oluşturulmuştur.
+A web page interface that is compatible with all dynamic devices and can be used for online shopping has been created using HTML-CSS.
 
 ![](rec-screen-_8_.gif)
